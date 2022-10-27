@@ -5,4 +5,10 @@ h1{
 }
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+<<<<<<< HEAD
 }
+=======
+    color: brown;
+    border: 1px solid black;
+}
+>>>>>>> 143c74113cce17ab863a94387834d36b6f57e762
